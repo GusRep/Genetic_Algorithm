@@ -1,0 +1,47 @@
+Hola Muchachos,
+
+Les envío los datos del problema de algoritmos genéticos.
+
+ 
+
+ Trabajo práctico sobre algoritmos genéticos.
+
+ 
+
+ El programa a realizar recibirá por línea de comando u otro mecanismo
+
+ un archivo de texto como el del ejemplo.
+
+ La primera línea contiene un número entero que es el largo estándar de
+
+ la tira de caño.
+
+ Las restantes líneas tienen dos números enteros: el primero indica la
+
+ cantidad de cortes y el segundo la medida de esos cortes, en las
+
+ mismas unidades que el largo de la tira. Los cortes están ordenados por longitud.
+
+ (de mayor a menor).
+
+ 
+
+ Como límite solo puede haber hasta 1000 cortes en total.
+
+ 
+
+ El resultado se entregará en otro archivo de texto con nombre
+
+ AG01JCG.txt donde 01 se corresponde con el archivo de entrada y JCG
+
+ son las iniciales del autor.
+
+ En el archivo de salida se informará la cantidad de tiras utilizadas y
+
+ la suma total de los desperdicios.
+
+ 
+
+ Suerte,
+
+ Juan Carlos Gómez
