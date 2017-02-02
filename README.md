@@ -1,2 +1,2 @@
 # Genetic_Algorithm
-Problem of optimization of pipe chunking
+Optimization of pipe chunking
