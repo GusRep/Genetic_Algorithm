@@ -1,0 +1,12 @@
+Porque NA tiene un criterio de evaluación mucho mas simplificado, ya que:
+1- obtiene la Aptitud promedio de la población
+2- se fija quienes están cierto umbral (es una cte del programa, creo que la deje en 5 o 10% por debajo de la media, ya que debemos minimizar el valor numérico de la aptitud) por debajo de la media serían "los mas aptos"
+3- los aparea
+4- los hijos se insertan en la población sobreescribiendo a los menos aptos (que son los de aptitud numérica mas grande)
+5- loop a 1
+Por eso llega un momento en el que no hay mas reproducciones, porque quedan dentro del umbral.
+
+En cambio EV, tiene el tema de la rueda de ruleta con distintos espesores de ranura (que vimos en clase y que se encentra en la literatura), y evaluar la probabilidad de que sea seleccionado cada individuo para efectuar el apareamiento, es mucho mas lenta (requiere mucho mas cálculo).
+Además, a medida que los individuos son mas aptos, tienen mas chances de reproducirse, y a medida que evoluciona la población, cada vez hay mas individuos con grandes probabilidades de reproducción.
+
+Saludos Gus.
