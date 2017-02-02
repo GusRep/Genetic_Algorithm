@@ -1,0 +1,216 @@
+Desechos acumulados de caños (DespA) :
+   39.2083
+
+Desechos irrealizables de caños (DespB) :
+   -0.2083
+
+Combinaciones Perfectas (DespC) :
+    87
+
+Tiras de caños comprados empleados:
+    99
+
+Desechos acumulados de caños (DespA) :
+   39.1500
+
+Desechos irrealizables de caños (DespB) :
+   -0.1500
+
+Combinaciones Perfectas (DespC) :
+    90
+
+Tiras de caños comprados empleados:
+    99
+
+Desechos acumulados de caños (DespA) :
+   41.2750
+
+Desechos irrealizables de caños (DespB) :
+   -0.2750
+
+Combinaciones Perfectas (DespC) :
+    84
+
+Tiras de caños comprados empleados:
+   101
+
+Desechos acumulados de caños (DespA) :
+   27.4667
+
+Desechos irrealizables de caños (DespB) :
+   -3.4667
+
+Combinaciones Perfectas (DespC) :
+   101
+
+Tiras de caños comprados empleados:
+    84
+
+Desechos acumulados de caños (DespA) :
+   20.6250
+
+Desechos irrealizables de caños (DespB) :
+   -7.6250
+
+Combinaciones Perfectas (DespC) :
+   107
+
+Tiras de caños comprados empleados:
+    73
+
+Desechos acumulados de caños (DespA) :
+   30.5833
+
+Desechos irrealizables de caños (DespB) :
+   -4.5833
+
+Combinaciones Perfectas (DespC) :
+    97
+
+Tiras de caños comprados empleados:
+    86
+
+Desechos acumulados de caños (DespA) :
+   25.3833
+
+Desechos irrealizables de caños (DespB) :
+   -4.3833
+
+Combinaciones Perfectas (DespC) :
+   101
+
+Tiras de caños comprados empleados:
+    81
+
+Desechos acumulados de caños (DespA) :
+   19.2167
+
+Desechos irrealizables de caños (DespB) :
+   -5.2167
+
+Combinaciones Perfectas (DespC) :
+   107
+
+Tiras de caños comprados empleados:
+    74
+
+Desechos acumulados de caños (DespA) :
+   15.8083
+
+Desechos irrealizables de caños (DespB) :
+   -7.8083
+
+Combinaciones Perfectas (DespC) :
+   118
+
+Tiras de caños comprados empleados:
+    68
+
+Desechos acumulados de caños (DespA) :
+   23.9083
+
+Desechos irrealizables de caños (DespB) :
+   -4.9083
+
+Combinaciones Perfectas (DespC) :
+   102
+
+Tiras de caños comprados empleados:
+    79
+
+Desechos acumulados de caños (DespA) :
+   32.2167
+
+Desechos irrealizables de caños (DespB) :
+   -0.2167
+
+Combinaciones Perfectas (DespC) :
+    94
+
+Tiras de caños comprados empleados:
+    92
+
+Desechos acumulados de caños (DespA) :
+   20.5583
+
+Desechos irrealizables de caños (DespB) :
+   -2.5583
+
+Combinaciones Perfectas (DespC) :
+   111
+
+Tiras de caños comprados empleados:
+    78
+
+Desechos acumulados de caños (DespA) :
+   22.0917
+
+Desechos irrealizables de caños (DespB) :
+   -3.0917
+
+Combinaciones Perfectas (DespC) :
+   108
+
+Tiras de caños comprados empleados:
+    79
+
+Desechos acumulados de caños (DespA) :
+   21.2417
+
+Desechos irrealizables de caños (DespB) :
+   -3.2417
+
+Combinaciones Perfectas (DespC) :
+   111
+
+Tiras de caños comprados empleados:
+    78
+
+Desechos acumulados de caños (DespA) :
+   13.9500
+
+Desechos irrealizables de caños (DespB) :
+   -3.9500
+
+Combinaciones Perfectas (DespC) :
+   119
+
+Tiras de caños comprados empleados:
+    70
+
+Desechos acumulados de caños (DespA) :
+   11.0583
+
+Desechos irrealizables de caños (DespB) :
+   -1.0583
+
+Combinaciones Perfectas (DespC) :
+   129
+
+Tiras de caños comprados empleados:
+    70
+
+Desechos acumulados de caños (DespA) :
+    9.9917
+
+Desechos irrealizables de caños (DespB) :
+   -1.9917
+
+Combinaciones Perfectas (DespC) :
+   122
+
+Tiras de caños comprados empleados:
+    68
+
+Desechos acumulados de caños (DespA) :
+    6.8750
+
+Desechos irrealizables de caños (DespB) :
+   -2.8750
+
+Combinaciones Perfectas (DespC) :
+   125
+
+Tiras de caños comprados empleados:
+    64
+

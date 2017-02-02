@@ -1,0 +1,12 @@
+Desechos acumulados de caños (DespA) :
+   13.2328
+
+Desechos irrealizables de caños (DespB) :
+   -2.2400
+
+Combinaciones Perfectas (DespC) :
+    96
+
+Tiras de caños comprados empleados:
+    45
+

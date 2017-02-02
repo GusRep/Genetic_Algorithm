@@ -1,0 +1,9 @@
+AG_04.txt	60 tiras sin desperdicio
+
+AG_05.txt	60 tiras sin desperdicio
+
+06		10
+
+07		12
+
+02		7
